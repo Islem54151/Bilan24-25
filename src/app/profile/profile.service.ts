@@ -104,7 +104,7 @@ Développement web, DevOps, CI/CD, réseaux, cloud et virtualisation.`
     },
 {
   id: '2',
-  skill: 'Projets CI/CD : Kafka, Feign Client, intégration Microsoft Edge, Docker, authentification SSO via Keycloak, shared libraries, Spring Boot, Eureka, API-Gateway, Config server',
+  skill: 'Projets CI/CD : Kafka, Feign Client, Edge Microservices\n, Docker, authentification SSO via Keycloak, \nshared libraries, Spring Boot, Eureka, API-Gateway, \nConfig server\n ',
   progress: '80%'
 }
 
